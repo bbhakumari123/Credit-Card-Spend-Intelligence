@@ -1,0 +1,5 @@
+Test,Statistic,P_Value,Interpretation
+T-Test,-8.021278118112862,1.0918000261703538e-15,There is a statistically significant difference between male and female spending.
+Chi-Square,6545.1110451756285,5.352907026323612e-50,Expense category depends on city.
+ANOVA,0.7381839463186954,0.5290979317933089,No significant spending difference across quarters.
+Pearson Correlation,-0.010555280423962497,0.08844562081949356,Weak relationship between transaction amount and month.
