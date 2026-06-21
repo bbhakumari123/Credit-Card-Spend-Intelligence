@@ -79,11 +79,7 @@ Designed for an analyst who wants to dig deeper. Shows:
 
 ```
 Credit_Card_Spend_Intelligence/
-│
-├── data/
-│   ├── raw/                         
-│   └── cleaned/                      
-│
+│                    
 ├── python/
 │   ├── exploration.ipynb            
 │   ├── cleaning.ipynb              
