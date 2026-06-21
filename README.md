@@ -51,7 +51,7 @@ The goal was to answer these questions rigorously — with cleaned data, tested 
 ## 📊 Dashboards
 
 ### Dashboard 1 — Executive Spend Overview
-![Executive Spend Overview](screenshots/credit_analysisdb1.png)
+![Executive Spend Overview](https://github.com/bbhakumari123/Credit-Card-Spend-Intelligence/blob/a5a2d1a23a74e286504d243e44105a2948881860/Credit_card_intelligence/screenshots/credit_analysisdb1.png)
 
 Designed for a business stakeholder who needs answers in under 30 seconds. Shows:
 - KPI cards: Total Spend, Average Transaction Value, Total Transactions
