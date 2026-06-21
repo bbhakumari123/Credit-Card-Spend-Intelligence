@@ -65,7 +65,7 @@ Designed for a business stakeholder who needs answers in under 30 seconds. Shows
 ---
 
 ### Dashboard 2 — Consumer Behaviour & Statistical Insights
-![Consumer Behaviour & Statistical Insights](screenshots/credit_analysisdb2.png)
+![Consumer Behaviour & Statistical Insights](https://github.com/bbhakumari123/Credit-Card-Spend-Intelligence/blob/d2ed2e0e537e0c41f95ab3e5a7cd6fd202c75e76/Credit_card_intelligence/screenshots/credit_analysisdb2.png)
 
 Designed for an analyst who wants to dig deeper. Shows:
 - Treemap: Spend distribution across city and expense category simultaneously
