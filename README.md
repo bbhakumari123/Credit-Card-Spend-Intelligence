@@ -171,8 +171,8 @@ Patterns in data can be noise. These four tests were chosen to confirm or challe
 
 | Test | Hypothesis Tested | Statistic | P-Value | Conclusion |
 |---|---|---|---|---|
-| **Welch's T-Test** | Male vs female spending differs | t = -8.02 | < 0.0001 | ✅ Significant difference confirmed |
-| **Chi-Square** | Expense category depends on city | χ² = 6545.11 | < 0.0001 | ✅ Strong city-category dependency |
+| **Welch's T-Test** | Male vs female spending differs | t = -8.02 | < 0.05 | ✅ Significant difference confirmed |
+| **Chi-Square** | Expense category depends on city | χ² = 6545.11 | < 0.05 | ✅ Strong city-category dependency |
 | **One-Way ANOVA** | Spending differs across quarters | F = 0.74 | 0.529 | ❌ No quarterly variation |
 | **Pearson Correlation** | Spend amount correlates with month | r = -0.01 | 0.088 | ❌ No meaningful time relationship |
 
